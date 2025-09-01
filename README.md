@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bounin</h1>
+<h1 align="center">Hi 👋, I'm Pedro Santos</h1>
  
 📚 **Degree Data Scientist** in [UNIVESP - Salto](https://univesp.br/)
 
